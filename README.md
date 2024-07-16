@@ -1,4 +1,7 @@
 # tHomer
+
+![tHomer-optimized](https://github.com/user-attachments/assets/8d05abac-d67f-4922-87aa-b3ad8f234570)
+
 The project is a simple SDL application that displays a window with an image of Homer Simpson. Homer's eyes follow the mouse cursor, and when the cursor is inside the window, a donut moves in place of the cursor icon with a spring-like animation effect. The program allows you to drag the window by holding down the left mouse button and pressing the “Q” key to exit. You can also resize the window.
 ## Prerequisites
 - macOS
