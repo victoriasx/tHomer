@@ -45,4 +45,3 @@ The project is a simple SDL application that displays a window with an image of 
 
 ## Acknowledgements
 - The project was inspired by xeyes.
-- The development of this project was assisted by ChatGPT with code suggestions and improvements.
